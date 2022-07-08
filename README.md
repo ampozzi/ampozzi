@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+I'm Axel Pozzi (he/him) - Industrial Enginner by profession, Software Enginner in practice. Currently working at Walmart solving replenishment problems with JavaScript, Python and SQL.
+
+## Get in touch
+- [🐦 @dorward](http://twitter.com/dorward)
 
 <!--
 **ampozzi/ampozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
